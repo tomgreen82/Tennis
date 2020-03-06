@@ -3,7 +3,7 @@
 - Test Driven Development
 - C#
 
-This Kata is about implementing a simple tennis game where it has been simplified, so each set is one game.
+This Kata is about implementing a simple tennis game, it has been simplified so each set is one game.
 
 The scoring system is rather simple:
 
